@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\bin\Debug\netcoreapp3.1\RandomİkiBoyutlu.exe
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\bin\Debug\netcoreapp3.1\RandomİkiBoyutlu.deps.json
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\bin\Debug\netcoreapp3.1\RandomİkiBoyutlu.runtimeconfig.json
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\bin\Debug\netcoreapp3.1\RandomİkiBoyutlu.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\bin\Debug\netcoreapp3.1\RandomİkiBoyutlu.dll
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\bin\Debug\netcoreapp3.1\RandomİkiBoyutlu.pdb
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\obj\Debug\netcoreapp3.1\RandomİkiBoyutlu.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\obj\Debug\netcoreapp3.1\RandomİkiBoyutlu.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\obj\Debug\netcoreapp3.1\RandomİkiBoyutlu.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\obj\Debug\netcoreapp3.1\RandomİkiBoyutlu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\obj\Debug\netcoreapp3.1\RandomİkiBoyutlu.dll
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\obj\Debug\netcoreapp3.1\RandomİkiBoyutlu.pdb
+C:\Users\Administrator\source\repos\RandomİkiBoyutlu\RandomİkiBoyutlu\obj\Debug\netcoreapp3.1\RandomİkiBoyutlu.genruntimeconfig.cache
