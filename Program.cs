@@ -9,10 +9,10 @@ namespace RandomİkiBoyutlu
         static void Main(string[] args)
         {
 
-            Console.Write("satir sayisini giriniz:"); // kullancııdan sütun sayisinin alinmasi
+            Console.Write("satir sayisini giriniz:"); // kullancııdan satir sayisinin alinmasi
             int satir = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("sütun sayisi giriniz:"); // kuullanıcıdan satir sayisinin alinmasi
+            Console.Write("sütun sayisi giriniz:"); // kuullanıcıdan sütun sayisinin alinmasi
             int sütun = Convert.ToInt32(Console.ReadLine());
 
           
